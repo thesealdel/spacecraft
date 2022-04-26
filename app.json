@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "bike",
+  "description": "bike",
   "keywords": [
     "v2ray VMess VLESS"
   ],
